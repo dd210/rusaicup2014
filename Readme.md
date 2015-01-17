@@ -1,0 +1,1 @@
+AI logic for hockey team (Russian AI Cup 2014)
